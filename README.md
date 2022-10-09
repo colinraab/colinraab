@@ -3,9 +3,11 @@
 
 - 🔭 I’m currently working on **VST, Unity, and Wwise plugins**
 
-- 🌱 I’m currently learning **Juce, RackAFX, Wwise and Unity.**
+- 🌱 I’m currently learning **Juce, Wwise and Unreal Engine**
 
-- 👨‍💻 All of my projects are available at [www.colinraab.com](www.colinraab.com)
+- 👨‍💻 All of my projects are available at [colinraab.com](https://www.colinraab.com)
+
+- 💬 Ask me about **my music production and audio engineering!**
 
 - 📫 How to reach me **csr@raabfamily.net**
 
