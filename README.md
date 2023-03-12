@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **my music production and audio engineering!**
 
-- 📫 How to reach me **csr@raabfamily.net**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cassiro_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cassiro_" height="30" width="40" /></a>
