@@ -1,13 +1,7 @@
-<h1 align="center">Hi 👋, I'm Colin Raab</h1>
-<h3 align="center">A musician and software engineer working on VSTs, game audio, and new music performance tools.</h3>
+<h1 align="center">Hi! I'm Colin Raab</h1>
+<h3 align="center">A musician and software engineer working on VSTs and new music performance tools.</h3>
 
-- 🔭 I’m currently working on **VST, Unity, and Wwise plugins**
-
-- 🌱 I’m currently learning **Juce, Wwise and Unreal Engine**
-
-- 👨‍💻 All of my projects are available at [colinraab.com](https://www.colinraab.com)
-
-- 💬 Ask me about **my music production and audio engineering!**
+- Demos of my projects and creative work are available at [colinraab.com](https://www.colinraab.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
