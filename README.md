@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Colin Raab</h1>
 <h3 align="center">Musician and software engineer working on apps, research, VSTs and new music performance tools.</h3>
 
-<h4 align="center">Demos of my projects and creative work are available at [colinraab.com](https://www.colinraab.com)</h4>
+<h4 align="center">Demos of my projects and creative work are available at https://www.colinraab.com</h4>
 
 <h5 align="center">Connect with me:</h5>
 <p align="center">
